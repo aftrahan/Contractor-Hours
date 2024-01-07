@@ -41,8 +41,8 @@ The MASTER LISTS spreadsheet is used to load additional information about contra
 
 >**WO Types**
 >
->LINE - routine work done on active aircraft between flights
->SHOP - work done on airplane components, not the aircraft itself
+>LINE - routine work done on active aircraft between flights</br>
+>SHOP - work done on airplane components, not the aircraft itself</br>
 >HMV - work done on aircraft during dedicated maintenance stays
 >
 >Only HMV work needed to be accounted for and updated; LINE and SHOP work is included to clarify gaps in the data and is automatically highlighted as not needing to be updated in TRAX.
